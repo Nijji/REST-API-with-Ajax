@@ -1,0 +1,18 @@
+#div{
+    height: 200px;
+    width: 100%;
+    border: solid chartreuse;
+}
+
+#div1{
+    height: 200px;
+    width: 100%;
+    border: solid chocolate;
+}
+
+#div2{
+    height: 200px;
+    width: 100%;
+    border: solid cyan;
+    overflow-y: scroll;
+}
